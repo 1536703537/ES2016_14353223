@@ -3,16 +3,20 @@
 ### name: 罗海福
 * **实验内容及结果**
 	*	**task1:修改example2，让3分square模块变成2个**
+	
 	![](http://i1.piimg.com/567571/bf17c667b329e137.png)
 		*	如图所示，我们看到通过迭代定义了3个square模块，我们只需要将迭代器N修改为2个，只让他迭代两次。
 		*	![](http://p1.bpimg.com/567571/43107bd27f6e9583.png)
 	*	**task1:实验结果（改完的\*.dol截图）**
+	
 	![](http://p1.bpimg.com/567571/7d3fad235c611c6b.png)
 	*	**task2:修改example1，使其输出3次方数**
+	
 	![](http://p1.bpimg.com/567571/b07e9a9db4629033.png)
 		*	square_fire是信号处理函数，读入输入端信号i，将其平方后写出到输出端，重复length次之后就停止。题目要求我们输出三次方，所以我们乘多一个i。
 		*	![](http://p1.bqimg.com/567571/423e1d8894734284.png)
 	*	**task2:实验结果（改完的输出结果截图）**
+	
 	![](http://p1.bqimg.com/567571/6a4e5a59f52f350e.png)
 *	**实验感想和心得**
 	*	实验过程中的问题
